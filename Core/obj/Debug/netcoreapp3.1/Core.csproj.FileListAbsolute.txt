@@ -1,0 +1,7 @@
+C:\Users\balci\source\repos\EngSentenceBackEnd\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\balci\source\repos\EngSentenceBackEnd\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\balci\source\repos\EngSentenceBackEnd\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\balci\source\repos\EngSentenceBackEnd\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\balci\source\repos\EngSentenceBackEnd\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\balci\source\repos\EngSentenceBackEnd\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\balci\source\repos\EngSentenceBackEnd\Core\obj\Debug\netcoreapp3.1\Core.pdb

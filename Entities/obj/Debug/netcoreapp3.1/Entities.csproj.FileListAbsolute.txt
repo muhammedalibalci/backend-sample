@@ -1,0 +1,3 @@
+C:\Users\balci\source\repos\EngSentenceBackEnd\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\balci\source\repos\EngSentenceBackEnd\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\balci\source\repos\EngSentenceBackEnd\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
